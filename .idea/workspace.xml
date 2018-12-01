@@ -1,0 +1,1821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9130c622-b520-4811-a151-fb3f888455ab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/enderdragon-art-old.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/enderdragon-art.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/gopple-art.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Paper-1.7" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Desktop/HCFactions/src/us/purix/hcf/handler/CustomMovementHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__me_joeleoli_nucleus_nucleus_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__me_joeleoli_ragespigot_ragespigot_1_8_8_R0_1_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__org_projectlombok_lombok_1_14_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/src/main/resources/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/src/main/resources/items.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/Base/src/main/resources/plugin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_sk89q_dummypermscompat_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_sk89q_jchronic_0_2_4a.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_sk89q_lib_jlibnoise_1_0_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_bukkit_6_1_1_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_sk89q_worldedit_worldedit_core_6_1_1_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__com_thoughtworks_paranamer_paranamer_2_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__commons_lang_commons_lang_2_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__de_schlichtherle_truezip_6_8_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__javax_persistence_persistence_api_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__junit_junit_4_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__me_javaproject_base_base_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__me_joeleoli_nucleus_nucleus_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__me_joeleoli_ragespigot_ragespigot_1_8_8_R0_1_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_avaje_ebean_2_7_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_bukkit_bukkit_1_7_9_R0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_projectlombok_lombok_1_14_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_sk89q_bukkit_bukkit_classloader_check_1_7_9_R0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__org_yaml_snakeyaml_1_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/libraries/Maven__rhino_js_1_7R2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/HCFactions.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/HCF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/ConfigurationService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/Cooldowns.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/DateTimeFormats.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/DurationFormatter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/GsonFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/InventorySerialisation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/ItemNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/KillStreakType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/MapSorting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/Message.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/Permission.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/PlayerUtility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/ReclaimExtender.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/SimpleOfflinePlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/Utils/UUIDFetcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/chat/FactionsChatFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/combatlog/CombatListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/combatlog/CombatLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/combatlog/CombatLoggerCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/combatlog/CombatLoggerTools.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/combatlog/CombatManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/ChestCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/CobbleCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/CondenseCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/EnderDragonCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/HelpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/KillStreakCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/LFFCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/LivesCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/LogoutCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/NearCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/OreBroadcastCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/OresCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/PanicCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/PayCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/PvpTimerCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/RankReviveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/ReclaimAdminCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/ReclaimCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/RegenCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/SettingsCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/StaffBoardCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/command/TLCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/deathban/Deathban.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/deathban/DeathbanListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/deathban/DeathbanManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/deathban/FlatFileDeathbanManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/driver/Mongo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/APIFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/APIFactionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/FactionExecutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/FactionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/FactionMember.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/FlatFileFactionManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/LandMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionAcceptArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionAllyArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionAnnouncementArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionChatArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionClaimArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionCoLeaderArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionCreateArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionDemoteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionDepositArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionDisbandArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionHelpArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionHomeArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionInviteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionInvitesArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionKickArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionLeaderArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionLeaveArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionListArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionLivesDepositArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionMapArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionPromoteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionRenameArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionReviveArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionSetHomeArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionShowArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionStuckArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionUnallyArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionUnclaimArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionUninviteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/FactionWithdrawArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionBanArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionChatSpyArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionClaimForArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionClearClaimsArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionCreateSystemArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionDeathbanArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionForceLeaderArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionForcePromoteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionHistoryCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionLockArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionManageArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionManageSystemArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionModifyLeaderArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionModifyLivesArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionMuteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionPunishArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionRemoveArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionSaveArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionSetDeathbanMultiplierArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionSetDtrArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionSetDtrRegenArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/argument/staff/FactionSystemArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/claim/Claim.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/claim/ClaimHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/claim/ClaimSelection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/claim/ClaimWandListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/claim/Subclaim.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/CaptureZoneEnterEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/CaptureZoneLeaveEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionChatEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionClaimChangeEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionClaimChangedEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionCreateEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionDtrChangeEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionFocusChangeEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionRelationCreateEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionRelationRemoveEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionRemoveEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/FactionRenameEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/PlayerJoinFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/PlayerJoinedFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/PlayerLeaveFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/PlayerLeftFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/cause/ClaimChangeCause.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/event/cause/FactionLeaveCause.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/struct/ChatChannel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/struct/Raidable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/struct/RegenStatus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/struct/Relation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/struct/Role.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/type/ClaimableFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/type/Faction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/type/PlayerFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/type/WarzoneFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/faction/type/WildernessFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/ArmorFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/BlockJumpGlitchFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/BoatGlitchFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/CobwebFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/CraftFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/EnchantLimitListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/EnderChestRemovalListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/HungerFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/InfinityArrowFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/PearlFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/PotionLimitListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/PvPClassFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/ShovelFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/fixes/WeatherFixListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/handler/CustomMovementHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kitmap/KitMapListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/CaptureZone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/EventExecutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/EventScheduler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/EventTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/EventType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventCancelArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventCreateArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventDeleteArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventRenameArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventSetAreaArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventSetCapzoneArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/argument/EventStartArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/conquest/ConquestExecutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/conquest/ConquestSetpointsArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/eotw/EOTWHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/eotw/EotwCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/eotw/EotwListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/faction/CapturableFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/faction/ConquestFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/faction/EventFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/faction/FactionType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/faction/KothFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/koth/KothExecutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/koth/argument/KothNextArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/koth/argument/KothScheduleArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/koth/argument/KothSetCapDelayArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/koth/argument/KothShowArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/tracker/ConquestTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/tracker/EventTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/kothgame/tracker/KothTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/BookDeenchantListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/BorderListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/BottleListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/CoreListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/Crowbar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/CrowbarListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/DeathListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/DeathMessageListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/DeathSignListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/DurabilityListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/ElevatorClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/EndListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/EntityLimitListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/EventSignListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/ExpMultiplierListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/FactionListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/FactionManageListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/FactionsCoreListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/FastListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/FoundDiamondsListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/ItemFilterListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/ItemStatTrackingListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/ShopSignListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/SignSubclaimListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/SkullListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/StrengthListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/listener/WorldListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/nondonecommands/EndCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/nondonecommands/FFACommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/profile/ChatType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/ClassType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/PvpClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/PvpClassManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/archer/ArcherClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/bard/BardClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/bard/BardData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/bard/BardEffect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/bard/EffectRestorer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/event/PvpClassEquipEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/event/PvpClassUnequipEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/listener/AttemptEquip.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/type/MinerClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/pvpclass/type/RogueClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/scoreboard/PlayerBoard.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/scoreboard/ScoreboardHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/scoreboard/provider/ScoreboardProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/shield/BlockPos.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/shield/Shield.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/shield/ShieldListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/shield/ShieldPlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/shield/ShieldUpdateRequest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/shield/ShieldUpdateTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/tasks/CraftTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/tasks/DonorTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/tasks/TabType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/GlobalTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/PlayerTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/Timer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/TimerExecutor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/TimerManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/TimerRunnable.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/argument/TimerSetArgument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/event/TimerClearEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/event/TimerExpireEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/event/TimerExtendEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/event/TimerPauseEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/event/TimerStartEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/ArcherTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/CrappleTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/EnderPearlTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/FFATimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/LogoutTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/NotchAppleTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/PvpProtectionTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/SOTWPlayerTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/SOTWTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/SpawnTagTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/StuckTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/java/me/javaproject/hcfactions/timer/type/TeleportTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/balances.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/event-schedules.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/glowstone.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/items.csv" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/kits.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/lang.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/plugin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/HCFactions/src/main/resources/reclaim.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/KitPvP.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/src/main/java/me/javaproject/kitpvp/parameter/PlayerTeamParameterType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/src/main/java/me/javaproject/kitpvp/team/type/PlayerTeam.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/src/main/java/me/javaproject/kitpvp/util/PlayerUtility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/src/main/java/me/javaproject/kitpvp/util/SimpleOfflinePlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Personal/KitPvP/src/main/resources/plugin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Searlohn/BungeeCord/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Searlohn/BungeeCord/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Searlohn/BungeeCord/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Searlohn/BungeeCord/BungeeCord.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../Searlohn/BungeeCord/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../BungeeCord/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/FactionsPlugin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/blockoperation/BlockOperationModifier.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/blockoperation/BlockOperationModifierListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/blockoperation/state/BlockOperationState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/blockoperation/state/type/BlockOperationBrewingStandState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/blockoperation/state/type/BlockOperationFurnaceState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/chat/FactionsChatFormat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/claimwall/ClaimWall.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/claimwall/ClaimWallListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/claimwall/ClaimWallType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/combatlogger/CombatLogger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/combatlogger/CombatLoggerListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/combatlogger/commands/CombatLoggerCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/CloneInventoryCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/GiveInventoryCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/LastInventoryCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/Crate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/CrateListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/CrateCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateCreateCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateDeleteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateItemsCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateKeyCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateListCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crowbar/Crowbar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crowbar/CrowbarListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathlookup/DeathLookup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathlookup/DeathLookupCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathlookup/DeathLookupData.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathlookup/DeathLookupListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathsign/DeathSign.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathsign/DeathSignListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/economysign/EconomySign.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/economysign/EconomySignListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/economysign/EconomySignType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/elevator/Elevator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/elevator/ElevatorListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/enchantmentlimiter/EnchantmentLimiter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/enchantmentlimiter/EnchantmentLimiterListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/Event.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/EventManager.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/EventTimer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/EventZone.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/GlowstoneEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/GlowstoneEventListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/command/GlowstoneForceCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/procedure/GlowstoneCreateProcedure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/procedure/GlowstoneCreateProcedureListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/procedure/GlowstoneCreateProcedureStage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/procedure/command/GlowstoneProcedureCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/glowstone/procedure/command/GlowstoneRemoveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/KothEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/KothEventListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/command/KothCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/command/KothScheduleCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/command/KothStartCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/command/KothStopCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/procedure/KothCreateProcedure.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/procedure/KothCreateProcedureListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/procedure/KothCreateProcedureStage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/procedure/command/KothCreateProcedureCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/procedure/command/KothRemoveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/schedule/Schedule.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/schedule/ScheduleHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/utils/Cuboid.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/utils/CuboidBlockIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/utils/CuboidDirection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/utils/CuboidLocationIterator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/Faction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/Claim.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/ClaimListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/ClaimPillar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/ClaimProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/CustomMovementHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionChatCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionCreateCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionDepositCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionHelpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionHomeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionInvitesCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionJoinCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionLeaveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionListCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionMapCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionMessageCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionShowCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionStuckCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionAdminCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionDisbandAllCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionFreezeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionManageCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionSetDtrCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionThawCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/leader/FactionDemoteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/leader/FactionDisbandCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/leader/FactionLeaderCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/leader/FactionPromoteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionAllyCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionAnnouncementCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionClaimCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionEnemyCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionInviteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionKickCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionRenameCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionSetHomeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionUnclaimCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionUninviteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionWithdrawCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/system/FactionColorCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/system/FactionCreateSystemCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/system/FactionToggleDeathbanCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/FactionAllyFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/FactionEnemyFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/FactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/player/PlayerCancelFactionTeleportEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/player/PlayerCreateFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/player/PlayerDisbandFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/player/PlayerInitiateFactionTeleportEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/player/PlayerJoinFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/events/player/PlayerLeaveFactionEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/type/PlayerFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/type/SystemFaction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/files/ConfigFile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/itemdye/ItemDye.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/itemdye/ItemDyeListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/Kit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/KitListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/KitCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitColorCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitCreateCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitDeleteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitListCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitUpdateCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/ChestCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/CobbleCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/FixCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/FocusCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/HelpCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/MapKitCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/MedicReviveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/PlayTimeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/ReclaimCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/ReclaimRemoveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/RenameCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/SetGKitCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/SpawnCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/StackCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/TellLocationCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/XPShopCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/economy/AddBalanceCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/economy/BalanceCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/economy/PayCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/economy/SetBalanceCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/BorderListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/DurabilityListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/EnderpearlListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/GlitchListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/KitMapListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/ScoreboardListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/StrengthListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mobstack/MobStack.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mobstack/MobStackListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/Mode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/ModeListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/ModeType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/ModeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeCreateCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeDeleteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeStartCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeStopCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/potionlimiter/PotionLimiter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/potionlimiter/PotionLimiterListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/Profile.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileAutoSaver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileChatType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/achievement/ProfileAchievement.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/achievement/ProfileAchievementListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/achievement/ProfileAchievementType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/cooldown/ProfileCooldown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/cooldown/ProfileCooldownListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/cooldown/ProfileCooldownType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathban/ProfileDeathban.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathban/ProfileDeathbanListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathmessage/ProfileDeathMessage.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathmessage/ProfileDeathMessageListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathmessage/ProfileDeathMessageTemplate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/ProfileFight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/ProfileFightEffect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/ProfileFightEnvironment.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/ProfileFightListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/command/KillStreakCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/killer/ProfileFightKiller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/killer/type/ProfileFightEnvironmentKiller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/killer/type/ProfileFightPlayerKiller.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/fight/killstreaks/KillStreakType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKit.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitActionListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitCooldown.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitEnergy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitPotionEffect.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitWarmup.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ability/ProfileKitAbility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ability/ProfileKitAbilityListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/command/ProfileKitCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/events/ArcherTagEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/events/ArcherTagRemoveEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/options/ProfileOptions.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/options/ProfileOptionsListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/options/command/ProfileOptionsCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/options/item/ProfileOptionsItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/options/item/ProfileOptionsItemState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ore/ProfileOreCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ore/ProfileOreListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ore/ProfileOreType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/ProfileProtection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/ProfileProtectionListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/command/ProfileProtectionCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/command/subcommand/ProfileProtectionEnableCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/command/subcommand/ProfileProtectionLivesCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/command/subcommand/ProfileProtectionReviveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/command/subcommand/ProfileProtectionTimeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/ProfileProtectionLifeType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/ProfileProtectionLifeCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/subcommand/ProfileProtectionLifeAddCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/subcommand/ProfileProtectionLifeRemoveCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/subcommand/ProfileProtectionLifeSetCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/teleport/ProfileTeleportTask.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/teleport/ProfileTeleportType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/statracker/StatTracker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/statracker/StatTrackerListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/statracker/StatTrackerType.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/subclaim/Subclaim.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/subclaim/SubclaimListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/supplydrop/SupplyDrop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/supplydrop/SupplyDropListeners.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/supplydrop/SupplyDropState.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/DateUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/FactionsBoardAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/GsonFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/InventorySerialisation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/ItemNames.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/LocationSerialization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/MapSorting.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/PluginCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/command/BukkitCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/command/BukkitCompleter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/command/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/command/CommandArgs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/command/CommandFramework.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/command/Completer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/database/FactionsDatabase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/player/PlayerUtility.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/player/SimpleOfflinePlayer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/koth-schedule.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/lang.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/scoreboard.yml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__me_joeleoli_nucleus_nucleus_1_0_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__me_joeleoli_ragespigot_ragespigot_1_8_8_R0_1_SNAPSHOT.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/.idea/libraries/Maven__org_mongodb_mongo_java_driver_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/HCF/src/main/java/us/zonix/hcfactions/factions/commands/admin/FactionManageCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Hub - Dan/src/main/java/com/amberpvp/hub/Mongo.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Hub - Dan/src/main/java/com/amberpvp/hub/util/PlayerUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/.idea/libraries/Maven__com_google_code_gson_gson_2_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/java/me/javaproject/bunkers/claim/Claim.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/java/me/javaproject/bunkers/claim/ClaimListener.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/java/me/javaproject/bunkers/claim/ClaimManager.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/java/me/javaproject/bunkers/claim/ClaimProfile.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/java/me/javaproject/bunkers/claim/ClaimProfileListener.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/java/me/javaproject/bunkers/claim/Pillar.java" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/resources/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/IdeaProjects/Bunkers/src/main/resources/plugin.yml" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Faction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/Faction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="99" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#17194#17195#0" expanded="false" />
+                <element signature="e#17225#17226#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactionCreateCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionCreateCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1190">
+              <caret line="80" column="42" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactionShowCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionShowCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="748">
+              <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KothEvent.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/KothEvent.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1902#1903#0" expanded="false" />
+                <element signature="e#1961#1962#0" expanded="false" />
+                <element signature="e#3223#3224#0" expanded="false" />
+                <element signature="e#3287#3288#0" expanded="false" />
+                <element signature="e#5233#5234#0" expanded="false" />
+                <element signature="e#5262#5263#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KothEventListeners.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/KothEventListeners.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClaimListeners.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/ClaimListeners.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14416">
+              <caret line="881" column="1" lean-forward="false" selection-start-line="881" selection-start-column="1" selection-end-line="881" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#13928#13929#0" expanded="false" />
+                <element signature="e#14006#14007#0" expanded="false" />
+                <element signature="e#21753#21754#0" expanded="false" />
+                <element signature="e#21793#21794#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactionUninviteCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionUninviteCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="113">
+              <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactionsPlugin.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/FactionsPlugin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="169" column="26" lean-forward="false" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactionInviteCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionInviteCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FactionJoinCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionJoinCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="867">
+              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ProfileDeat</find>
+      <find>ProfileDeathban</find>
+      <find>Deathban</find>
+      <find>YELL</find>
+      <find>YELLOW</find>
+      <find>ENEMY</find>
+      <find>ENEMY_</find>
+      <find>ENEMY_C</find>
+      <find>ENEMY_CO</find>
+      <find>ENEMY_COL</find>
+      <find>ENEMY_COLOR</find>
+      <find>must claim closer</find>
+      <find>viewingMap</find>
+      <find>INVAlid</find>
+      <find>faction</find>
+      <find>PVP_PROT</find>
+      <find>SIZE</find>
+      <find>You do not have a valid selection!</find>
+      <find>FRIENDLY</find>
+      <find>fRIENDLY</find>
+      <find>lastInside</find>
+      <find>ENTERING</find>
+      <find>teleport</find>
+      <find>chatType</find>
+      <find>setDeath</find>
+      <find>load</find>
+      <find>invitedplayers</find>
+      <find>getByPlayername</find>
+      <find>SimpleOfflinepl</find>
+      <find>Member</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Game\Documents\Projects\Valid\HCFactions\src\main\java\com\validhcf\hcfactions\misc</dir>
+      <dir>C:\Users\Game\Documents\Projects\Valid\HCFactions\src\main\java\com\validhcf\hcfactions\event</dir>
+      <dir>C:\Users\Game\Documents\Projects\Valid\HCFactions\src\main\java\com\validhcf\hcfactions\util\command</dir>
+      <dir>C:\Users\Game\Documents\Projects\Valid\HCFactions\src\main\java\com\validhcf\hcfactions\profile\protection</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/LastInventoryCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/StackCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/command/ProfileKitCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/economy/AddBalanceCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/RenameCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitUpdateCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeDeleteCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeStopCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/SetGKitCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/economy/SetBalanceCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateCreateCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/MedicReviveCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mode/command/subcommand/ModeCreateCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/subcommand/ProfileProtectionLifeAddCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/Kit.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/KitCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/subcommand/KitColorCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/combatlogger/CombatLogger.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/combatlogger/CombatLoggerListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/admin/FactionAdminCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitActionListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/crate/command/subcommand/CrateKeyCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/KitListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/KitMapListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/kit/ability/ProfileKitAbilityListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/XPShopCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/economysign/EconomySignListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/chat/FactionsChatFormat.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/subcommand/ProfileProtectionLifeSetCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/life/command/subcommand/ProfileProtectionLifeRemoveCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/ReclaimRemoveCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/PotionCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/CloneInventoryCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/GiveInventoryCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionListCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/economysign/EconomySign.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/CustomMovementHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/MobListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/mobstack/MobStackListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/listeners/DurabilityListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/misc/commands/FixCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/command/subcommand/ProfileProtectionReviveCommand.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathban/ProfileDeathban.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathban/ProfileDeathbanListeners.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/FactionsPlugin.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/Profile.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/Faction.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/type/PlayerFaction.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HCFactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hcfactions" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15234375" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="custom&#9;FILE&#9;file://C:/Users/Game/Documents/Projects/Valid/HCFactions/src/main/java/com/validhcf/hcfactions/factions/claims/CustomMovementHandler.java&#10;ProfileListener&#9;FILE&#9;file://C:/Users/Game/Documents/Projects/Valid/HCFactions/src/main/java/com/validhcf/hcfactions/profile/ProfileListeners.java&#10;profileList&#9;FILE&#9;file://C:/Users/Game/Documents/Projects/Valid/HCFactions/src/main/java/com/validhcf/hcfactions/profile/kit/ProfileKitListeners.java&#10;factionshow&#9;FILE&#9;file://C:/Users/Game/Documents/Projects/Valid/HCFactions/src/main/java/com/validhcf/hcfactions/factions/commands/FactionShowCommand.java&#10;Factionshow&#9;PSI&#9;JAVA://com.validhcf.hcfactions.factions.commands.FactionShowCommand" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.validhcf.hcfactions.chat" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Game\Documents\Projects\Valid\HCFactions\src\main\java\com\validhcf\hcfactions" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="HCFactions" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9130c622-b520-4811-a151-fb3f888455ab" name="Default" comment="" />
+      <created>1536157273882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536157273882</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5066519" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32827735" sideWeight="0.49786553" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19474836" sideWeight="0.48612595" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2238806" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3531961" sideWeight="0.49786323" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.49334812" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/command/CloneInventoryCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="6" lean-forward="false" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/deathlookup/DeathLookupCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/MapSorting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/LocationSerialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/utils/Cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="63" column="11" lean-forward="false" selection-start-line="63" selection-start-column="11" selection-end-line="63" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathban/ProfileDeathbanListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="52" column="0" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="52" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/deathban/ProfileDeathban.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/protection/ProfileProtectionListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="35" column="16" lean-forward="false" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/supplydrop/SupplyDropListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/supplydrop/SupplyDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/Kit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/KitListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="29" column="13" lean-forward="false" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/kits/command/KitCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="55" column="18" lean-forward="false" selection-start-line="55" selection-start-column="18" selection-end-line="55" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/Claim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="76" column="32" lean-forward="false" selection-start-line="76" selection-start-column="32" selection-end-line="76" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/claimwall/ClaimWallType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="31" column="28" lean-forward="false" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="62" column="9" lean-forward="false" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/lang.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="364" column="79" lean-forward="false" selection-start-line="364" selection-start-column="29" selection-end-line="364" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/player/SimpleOfflinePlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="109" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/teleport/ProfileTeleportTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" column="50" lean-forward="false" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/teleport/ProfileTeleportType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileAutoSaver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2737">
+          <caret line="206" column="76" lean-forward="false" selection-start-line="206" selection-start-column="12" selection-end-line="206" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/CustomMovementHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3298">
+          <caret line="215" column="18" lean-forward="false" selection-start-line="215" selection-start-column="18" selection-end-line="215" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/ProfileChatType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/combatlogger/CombatLoggerListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="227" column="116" lean-forward="false" selection-start-line="227" selection-start-column="16" selection-end-line="227" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/database/FactionsDatabase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="37" column="54" lean-forward="false" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/leader/FactionPromoteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="66" column="46" lean-forward="false" selection-start-line="66" selection-start-column="46" selection-end-line="66" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/leader/FactionLeaderCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/cooldown/ProfileCooldown.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/cooldown/ProfileCooldownType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" lean-forward="false" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/cooldown/ProfileCooldownListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="952">
+          <caret line="65" column="35" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/achievement/ProfileAchievement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/achievement/ProfileAchievementListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/achievement/ProfileAchievementType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/HashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="103" column="11" lean-forward="false" selection-start-line="103" selection-start-column="11" selection-end-line="103" selection-end-column="11" />
+          <folding>
+            <element signature="e#3709#3710#0" expanded="false" />
+            <element signature="e#3746#3747#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/profile/Profile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="701" column="59" lean-forward="false" selection-start-line="701" selection-start-column="59" selection-end-line="701" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/util/player/PlayerUtility.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="30" lean-forward="false" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/type/SystemFaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/type/PlayerFaction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="80" column="30" lean-forward="false" selection-start-line="80" selection-start-column="24" selection-end-line="80" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1689#1690#0" expanded="false" />
+            <element signature="e#1735#1736#0" expanded="false" />
+            <element signature="e#1771#1772#0" expanded="false" />
+            <element signature="e#1810#1811#0" expanded="false" />
+            <element signature="e#1845#1846#0" expanded="false" />
+            <element signature="e#1910#1911#0" expanded="false" />
+            <element signature="e#1943#1944#0" expanded="false" />
+            <element signature="e#1991#1992#0" expanded="false" />
+            <element signature="e#9949#9950#0" expanded="false" />
+            <element signature="e#10005#10006#0" expanded="false" />
+            <element signature="e#10048#10049#0" expanded="false" />
+            <element signature="e#10104#10105#0" expanded="false" />
+            <element signature="e#10143#10144#0" expanded="false" />
+            <element signature="e#10197#10198#0" expanded="false" />
+            <element signature="e#10239#10240#0" expanded="false" />
+            <element signature="e#10293#10294#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionCreateCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="80" column="42" lean-forward="false" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/Faction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="99" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#17194#17195#0" expanded="false" />
+            <element signature="e#17225#17226#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/me/joeleoli/ragespigot/ragespigot/1.8.8-R0.1-SNAPSHOT/ragespigot-1.8.8-R0.1-SNAPSHOT.jar!/org/bukkit/entity/Entity.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="84" column="9" lean-forward="false" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionInviteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="22" column="15" lean-forward="false" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionShowCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="60" column="5" lean-forward="false" selection-start-line="60" selection-start-column="5" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/KothEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="30" column="13" lean-forward="false" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1902#1903#0" expanded="false" />
+            <element signature="e#1961#1962#0" expanded="false" />
+            <element signature="e#3223#3224#0" expanded="false" />
+            <element signature="e#3287#3288#0" expanded="false" />
+            <element signature="e#5233#5234#0" expanded="false" />
+            <element signature="e#5262#5263#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/event/koth/KothEventListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/claims/ClaimListeners.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14416">
+          <caret line="881" column="1" lean-forward="false" selection-start-line="881" selection-start-column="1" selection-end-line="881" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#13928#13929#0" expanded="false" />
+            <element signature="e#14006#14007#0" expanded="false" />
+            <element signature="e#21753#21754#0" expanded="false" />
+            <element signature="e#21793#21794#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/FactionJoinCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="59" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/factions/commands/officer/FactionUninviteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="38" column="24" lean-forward="false" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/validhcf/hcfactions/FactionsPlugin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="169" column="26" lean-forward="false" selection-start-line="169" selection-start-column="26" selection-end-line="169" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HCFactions</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.3.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
