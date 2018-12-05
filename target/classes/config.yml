@@ -85,10 +85,10 @@ TELEPORT_COUNTDOWN:
       TIME: 10
     NETHER:
       ENABLED: TRUE
-      TIME: 10
+      TIME: 20
     END:
       ENABLED: TRUE
-      TIME: 10
+      TIME: 25
   STUCK:
     DISTANCE: 5
     OVERWORLD:
